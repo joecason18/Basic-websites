@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// $img-comp-sli:min(80vw, 768px);
+$img-handle-width:50px;
+//ANIMATIONS stuff
+$hover: all 0.2s ease-in;
+$slide: all 0.3s cubic-bezier(.55, 0, .1, 1);
+$slide-delay: all 0.4s 0.1s cubic-bezier(.55, 0, .1, 1);
+$slide-slow: all 0.5s cubic-bezier(.55, 0, .1, 1);
+$zoom: all 1s cubic-bezier(.55, 0, .1, 1);
+$zoom-slow: all 2.4s cubic-bezier(.55, 0, .1, 1);
